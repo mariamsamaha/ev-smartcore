@@ -124,8 +124,8 @@ This project focuses on building a **Climate Control System** and **Safety Check
 
 ## Author
 
-*Mariam Samaha
-Bachelor of Science in Computer Science
-Zewail City University, Egypt*
+*Mariam Samaha*
+*Bachelor of Science in Computer Science*
+*Zewail City University, Egypt*
 
 ---
