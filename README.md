@@ -122,10 +122,10 @@ This project focuses on building a **Climate Control System** and **Safety Check
 - Remote climate control
 - Advanced security features
 
-## Author
+## 👩‍💻Author
 
-*Mariam Samaha*
-*Bachelor of Science in Computer Science*
-*Zewail City University, Egypt*
+**Mariam Samaha**  
+Bachelor of Science in Computer Science  
+Zewail City University, Egypt
 
 ---
