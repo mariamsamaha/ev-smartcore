@@ -81,9 +81,6 @@ This project focuses on building a **Climate Control System** and **Safety Check
 * **Blocks motor movement** if safety conditions are not met
 * Displays **status messages** on the LCD
 
-## Circuit Diagram
-
-*[Add your circuit diagram here]*
 
 ## Installation & Setup
 
