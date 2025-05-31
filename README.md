@@ -2,7 +2,7 @@
 📌 Project Overview
 This project focuses on building a Climate Control System and Safety Check System for an electric vehicle using Arduino. It simulates real-time vehicle features such as temperature regulation, safety validation (seat belt and door lock checks)
 
-##Features:
+#Features:
 This project simulates core features of an electric vehicle including:
 
 -Climate Control System: Allows passengers to set desired temperature using a keypad. Based on input, the heater or cooling fan is activated. Real-time temperature, fan speed, and heater status are shown on an LCD.
