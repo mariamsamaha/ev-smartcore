@@ -99,13 +99,6 @@ This project focuses on building a **Climate Control System** and **Safety Check
 - Verify safety check operations
 - Validate automatic lighting system
 
-## Usage
-
-1. Power on the system using the battery pack
-2. Set desired temperature using the keypad
-3. Fasten all seat belts and lock all doors for vehicle operation
-4. Use accelerator/brake sensors to simulate vehicle movement
-5. Monitor system status on the LCD display
 
 ## Troubleshooting
 
